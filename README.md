@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefrinsson J F Calderón</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fc4rcode" alt="fc4rcode" /></a> </p>
 
 - 🔭 I’m currently working on **SISTAREO**, **GOURMET**, **COMSYS**.
