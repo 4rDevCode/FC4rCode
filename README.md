@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jefrinsson J F Calderón</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fc4rcode" alt="fc4rcode" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fc4rcode" alt="fc4rcode" /></a> </p>-->
 
 - 🔭 I’m currently working on **SISTAREO**, **GOURMET**, **COMSYS**.
 
